@@ -1,0 +1,9 @@
+{
+    "FartuEnable": false,
+    "FartuLang": ["Russian"],
+    "FartuTimes": ["Yekaterinburg"],
+    "FartuLinks": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
