@@ -1,0 +1,9 @@
+{
+    "JokTwonkEnable": false,
+    "JokTwonkLang": ["Russian"],
+    "JokTwonkTimes": ["Yekaterinburg"],
+    "JokTwonkLinks": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
