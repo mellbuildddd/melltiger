@@ -1,9 +1,9 @@
 {
-    "JokTwonkEnable": false,
-    "JokTwonkLang": ["Russian"],
-    "JokTwonkTimes": ["Yekaterinburg"],
+    "JokTwonkEnable": true,
+    "JokTwonkLang": ["Spanish"],
+    "JokTwonkTimes": ["Buenos_Aires", "Argentina"],
     "JokTwonkLinks": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Spanish", "Links": ["https://1wyvrz.life/casino/list?open=register&p=mapv"]}
     ]
  }
